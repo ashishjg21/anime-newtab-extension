@@ -1,5 +1,4 @@
 ## List of features
-[Home Page](https://extensry.netlify.app/)
 - In the home page, you can start by adding your name and then press the enter key which will route you to the task page. If you refresh the home page you will see a different soothing background image.
 
 Task Page
@@ -26,13 +25,13 @@ Clone the project by adding the following command in the terminal.
 Make sure your have git installed and added to path.
 
 ```bash
-  git clone https://github.com/prakashsakari/extensry.git
+  git clone <repo>
 ```
 
 Go to the project directory
 
 ```bash
-  cd extensry
+  cd into <repo>
 ```
 
 Install dependencies
