@@ -1,65 +1,94 @@
 export const images = [
     {
-        image: "https://images.pexels.com/photos/531880/pexels-photo-531880.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        image: "https://wallpapercave.com/wp/wp11084694.jpg"
     },
     {
-        image: "https://images.pexels.com/photos/956999/milky-way-starry-sky-night-sky-star-956999.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        image: "https://wallpapercave.com/wp/wp5611842.jpg"
     },
     {
-        image: "https://images.pexels.com/photos/747964/pexels-photo-747964.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        image: "https://wallpapercave.com/wp/wp11044300.jpg"
     },
     {
-        image: "https://images.pexels.com/photos/952670/pexels-photo-952670.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        image: "https://wallpapercave.com/wp/wp9386471.jpg"
     },
     {
-        image: "https://images.pexels.com/photos/1261728/pexels-photo-1261728.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        image: "https://wallpapercave.com/wp/wp1858948.jpg",
     },
     {
-        image: "https://images.pexels.com/photos/956981/milky-way-starry-sky-night-sky-star-956981.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        image: "https://wallpapercave.com/wp/wp1858914.jpg",
     },
     {
-        image: "https://images.pexels.com/photos/1435752/pexels-photo-1435752.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        image: "https://wallpapercave.com/wp/wp1848103.jpg",
     },
     {
-        image: "https://images.pexels.com/photos/268533/pexels-photo-268533.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        image: "https://i.redd.it/5afhn68ezxo81.jpg",
     },
     {
-        image: "https://images.pexels.com/photos/346529/pexels-photo-346529.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        image: "https://external-preview.redd.it/Z_JsyVTSim9dsp9PkbG_D0sRa6lSs3V3UYEvn2iAyXU.jpg?auto=webp&s=fb8c133b5a14333316bf01e7f0c6eab764997a86",
     },
     {
-        image: "https://images.pexels.com/photos/853199/pexels-photo-853199.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        image: "https://i.redd.it/ffx56wt9j9v81.png",
     },
     {
-        image: "https://images.pexels.com/photos/1169754/pexels-photo-1169754.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        image: "https://i.redd.it/2mrbd9agalx81.jpg",
     },
     {
-        image: "https://images.pexels.com/photos/1323550/pexels-photo-1323550.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        image: "https://i.redd.it/h1hqfohpw0191.png",
     },
     {
-        image: "https://images.pexels.com/photos/696680/pexels-photo-696680.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        image: "https://i.redd.it/wvpewumwxp391.png",
     },
     {
-        image: "https://images.pexels.com/photos/1054218/pexels-photo-1054218.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        image: "https://i.redd.it/g073zgrox7491.jpg",
     },
     {
-        image: "https://images.pexels.com/photos/1629236/pexels-photo-1629236.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        image: "https://i.redd.it/6trzzb4kzr591.jpg",
     },
     {
-        image: "https://images.pexels.com/photos/355887/pexels-photo-355887.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        image: "https://i.redd.it/1ynihp4t07991.png",
     },
     {
-        image: "https://images.pexels.com/photos/547114/pexels-photo-547114.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        image: "https://i.redd.it/2tus433n2ca91.png",
     },
     {
-        image: "https://images.pexels.com/photos/355288/pexels-photo-355288.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        image: "https://i.redd.it/7gyfgqiwdva91.jpg",
     },
     {
-        image: "https://images.pexels.com/photos/884788/pexels-photo-884788.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        image: "https://i.redd.it/uw6bn1589ya91.png",
     },
     {
-        image: "https://images.pexels.com/photos/1933239/pexels-photo-1933239.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        image: "https://i.redd.it/b9zn6or2jge91.jpg",
     },
     {
-        image: "https://images.pexels.com/photos/33545/sunrise-phu-quoc-island-ocean.jpg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        image: "https://wallpapercave.com/wp/wp1892131.png"
     }
 ]
+
+// const http = require("https");
+
+// const options = {
+// 	"method": "GET",
+// 	"hostname": "best-manga-anime-wallpapers.p.rapidapi.com",
+// 	"port": null,
+// 	"path": "/",
+// 	"headers": {
+// 		"X-RapidAPI-Key": "b0d2561731msh24182e5d32fe6e6p12781ajsn33ca72ce33c2",
+// 		"X-RapidAPI-Host": "best-manga-anime-wallpapers.p.rapidapi.com",
+// 		"useQueryString": true
+// 	}
+// };
+
+// const req = http.request(options, function (res) {
+// 	const chunks = [];
+
+// 	res.on("data", function (chunk) {
+// 		chunks.push(chunk);
+// 	});
+
+// 	res.on("end", function () {
+// 		const body = Buffer.concat(chunks);
+// 		console.log(body.toString());
+// 	});
+// });
+
+// req.end();

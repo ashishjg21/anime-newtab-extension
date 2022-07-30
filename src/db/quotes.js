@@ -1,95 +1,93 @@
 export const quotes = [
     {
       quote:
-        "You must be the change you wish to see in the world. – Mahatma Gandhi"
+        "Remember this and take it to heart: Kindness sometimes leads to even greater tragedy. -- Homura Akemi (Puella Magi Madoka Magica)"
     },
     {
       quote:
-        "First they ignore you, then they laugh at you, then they fight you, then you win. – Mahatma Gandhi"
+        
+        "If I can't, then I'll just die. But if I win, I live. Unless I fight I cannot win. -- Mikasa Ackerman (Attack on Titan)"
     },
     {
       quote:
-        "Those who are prepared to die for any cause are seldom defeated. - Pandit Jawarharlal Nehru"
+        "I'm the smartest member in the Straw Hat group. -- Nami (One Piece)"
     },
     {
       quote:
-        "Where the mind is led forward by thee into ever-widening thought and action-Into that heaven of freedom, my father, let my country awake. – Rabindranath Tagore"
+        "Now it's my turn to take the lead, and all of you can watch me from the background! -- Sakura Haruno (Naruto)"
     },
     {
       quote:
-        "A war based on Satyagraha is always of two kinds. One is the war we wage against injustice and the other we fight against our own weaknesses. – Sardar Vallabhbhai Patel"
+        "Ponytails turn me on - Kyon"
     },
     {
       quote:
-        "Revolution is an inalienable right of mankind. Freedom is an imperishable birthright of all. ― Bhagat Singh"
+        "If it's true love, I'm prepared even to accept an explosion. -- KAGUYA SHINOMIYA"
     },
     {
       quote:
-        "Merciless criticism and independent thinking are the two necessary traits of revolutionary thinking. ― Bhagat Singh"
+        "I just want you with all your imperfections, flaws, jokes, sarcasm, and everything -- -YUKINO YUKINOSHITA"
     },
     {
       quote:
-        "Don’t take rest after your first victory because if you fail in second, more lips are waiting to say that your first victory was just luck. - A. P. J. Abdul Kalam"
+        "I want you to be happy. I want you to laugh a lot. I don't know what exactly I'll be able to do for you, but I'll always be by your side. -- Kagome (InuYasha)"
     },
     {
       quote:
-        "I believe in a religion that propagates freedom, equality and brotherhood. - Chandrasekhar Azad"
+        "Sugoi"
     },
     {
       quote:
-        "Don’t see others doing better than you, beat your own records every day because success is a fight between you and yourself. - Chandrasekhar Azad"
+        "NANI??"
     },
     {
       quote:
-        "We want deeper sincerity of motive, a greater courage in speech and earnestness in action. - Sarojini Naidu"
+        "Arigato!!!"
     },
     {
       quote:
-        "A country’s greatness lies in its undying ideals of love and sacrifice that inspire the mothers of the race. - Sarojini Naidu"
+        "Onii-Chan"
     },
     {
       quote:
-        "Life is all about a card game. Choosing the right cards is not in our hand. But playing well with the cards in hand determines our success. - Bal Gangadhar Tilak"
+        "Moshi Moshi"
     },
     {
-      quote: "Life should be great rather than long. – B.R. Ambedkar"
+      quote: "EHHHHHHH!??"
     },
     {
-      quote: "Ignorance is always afraid of change. – Pandit Jawaharlal Nehru"
-    },
-    {
-      quote:
-        "So long as you do not achieve social liberty, whatever freedom is provided by the law is of no avail to you. – B.R. Ambedkar"
-    },
-    {
-      quote: "Wherever you go becomes a part of you somehow. – Anita Desai"
+      quote: "BAKA"
     },
     {
       quote:
-        "Remember, no one is stopping you from lighting a lamp in a dark night. – Harivansh Rai Bacchan"
+        "Masaka! "
+    },
+    {
+      quote: "Ara ara~~<3"
+    },
+    {
+      quote:  "If your life can change once, your life can change again. --- Sanae "
     },
     {
       quote:
-        "What we possess is temporary, but what we become is permanent. – Devdutt Pattanaik"
+        "No matter how hard or impossible it is, never lose sight of your goal. --- Monkey D Luffy"
     },
     {
       quote:
-        "Man needs his difficulties because they are necessary to enjoy success. – A.P.J. Abdul Kalam"
+      "No one knows what the future holds. That's why its potential is infinite. --- Rintaro Okabe "
     },
     {
-      quote: "What is now in the past was once in the future. – Ramachandra Guha"
-    },
-    {
-      quote:
-        "They who give have all things; they who withhold have nothing. – Indian proverb"
+      quote: "No matter which love line, what time, or where I am, I will always love you. I'll say it one more time. I love you. — Okabe (Steins; Gate)"
     },
     {
       quote:
-        "We can’t change the direction of the wind, but we can adjust the sails. – Indian proverb"
+      "The world isn't perfect. But it's there for us, doing the best it can… that's what makes it so damn beautiful.” — Roy Mustang (Full Metal Alchemist)"
     },
     {
-      quote:
-        "Comfort is no test of truth. Truth is often far from being comfortable. – Swami Vivekananda"
+      quote: "Iyada"
+    },
+    {
+      quote: ""
     }
   ];
   

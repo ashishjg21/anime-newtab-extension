@@ -23,10 +23,10 @@ export const browserReducer = (state, { type, payload }) => {
           ...state,
           message:
             payload >= 0 && payload < 12
-              ? "Good morning"
+              ? "ohayou gozaimasu"
               : payload >= 12 && payload <= 17
-              ? "Good afternoon"
-              : "Good evening"
+              ? "konnichiwa"
+              : "moshi moshi"
         };
   
       case "TASK":

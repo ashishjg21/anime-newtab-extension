@@ -1,9 +1,9 @@
 {
 	"manifest_version": 2,
-	"name": "Extensry",
-	"author": "Prakash Sakari",
+	"name": "New Tab",
+	"author": "Ashish Galagali",
 	"version": "1.0.2",
-	"description": "Extensry is a super cool extension that greets you with a message according to the time of the day and shows different background on page refresh. With Extensry you can set your main/focus task of the day ansd also create your own todo.",
+	"description": "super cool extension that greets you with a message according to the time of the day and shows different background on page refresh. With Extensry you can set your main/focus task of the day ansd also create your own todo.",
 	"chrome_url_overrides": {
 		"newtab": "index.html"
 	}
