@@ -1,3 +1,5 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/5ae90180-32ec-40af-9a1f-65833137f564/deploy-status)](https://app.netlify.com/sites/the-awesome-ashishjg21-site/deploys)
+
 ## List of features
 - In the home page, you can start by adding your name and then press the enter key which will route you to the task page. If you refresh the home page you will see a different soothing background image.
 
