@@ -12,12 +12,8 @@ Task Page
 - HTML/CSS
 - ReactJs
 
-## Author
-
-## Live Link
-
-
-## Add Extension to Firefox
+todo: 
+- Add Extension to Firefox
 
 
 
